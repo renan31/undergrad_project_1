@@ -1,1 +1,1 @@
-# Projeto de Iniciação Científica - Processos de Design de Interação envolvendo Realidade Virtual e Tecnologias de Óleo e Rocha Digitais
+# Undergraduation Project - Interation Design Processes through Virtual Reality and Digital Oil and Rock Technologies
