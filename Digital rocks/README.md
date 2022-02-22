@@ -1,1 +1,1 @@
-This file contains all instructions of the code digital_rocks
+<h1 align="center"> Exploring digital rocks through Virtual Reality </h1>
