@@ -20,10 +20,10 @@ for k in range(Z_DIMENSION):
 # Using NumPy to insert two new rows
 n_grains = len(p) 
 rock = np.array(p)
-line_1 = [n_grains, None, None, None] # <---- Number of grains
-line_2 = [None, None, None, None] # <---- Coments line
+line_1 = [n_grains, None, None, None] # Number of grains
+line_2 = [None, None, None, None] # Comments line
 rock = np.r_[[line_2], rock]
 rock = np.r_[[line_1], rock]
 
-# Using Pandas to save the data into an .xyz file
+# Using Pandas to save the data into an xyz file
 pd.DataFrame(rock).to_csv("rock.xyz", sep=" ", index=False, header=False)
