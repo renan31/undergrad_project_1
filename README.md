@@ -1,1 +1,1 @@
-# Undergraduation Project - Interation Design Processes through Virtual Reality and Digital Oil and Rock Technologies
+# Undergraduation Project - Interaction Design Processes through Virtual Reality and Digital Oil and Rock Technologies
